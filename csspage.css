@@ -1,0 +1,83 @@
+﻿#menu li {
+display: inline;
+}
+
+
+body {background-color: white;
+
+    font: 15px Georgia;
+
+    
+          background-image: url(https://www.grahamsandersoninteriors.com/ce-s3/f8a1e9d52e02aa93ca86ff4d730259d537c5f140.JPG);
+
+}
+
+
+#first {
+    
+    background-image: url(https://www.grahamsandersoninteriors.com/ce-s3/22b3ef4f0a54830ff6160b6c14951932715e60de.JPG);
+}
+#aboutme {
+
+    background-image: url("https://www.designersguild.com/image/654/20265");
+    
+}
+
+
+.box {
+    border: 1px solid green ;
+}
+
+h1 {
+    
+    text-align: center;
+
+}
+
+#buttons li {
+
+   
+    float: left;
+    list-style: none;   
+    text-align: center;
+    background-color: #938e9a;
+    margin-right: 15px;
+    width: 200px;
+    line-height: 30px;
+    border-radius: 20px;
+    font: Georgia;
+ 
+    
+}
+
+.box {
+    border: 2px solid green ;
+    float: left;
+    width   : 250px;
+    right: 50%;
+    bottom: 0;
+}
+
+#video {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+#headers1 {
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#h1 {
+    
+    text-align: center;
+}
+
+#jetsons {
+    
+    text-align: center;
+}
